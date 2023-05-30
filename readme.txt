@@ -7,3 +7,6 @@ To activate environment
 for cmd -> conda activate env/
 
 for git bash -> conda activate env/
+
+'''
+updated
