@@ -18,8 +18,8 @@ def save_object(file_path, obj):
     
 def load_object(file_path):
     try:
-        with open(file_path, "rb") as file_objt:
-            return pickle.load(file_objt)
+        with open(file_path, "rb") as file_object:
+            return pickle.load(file_object)
     except Exception as e:
         raise CustomException(e, sys)
 
