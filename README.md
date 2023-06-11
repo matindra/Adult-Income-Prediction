@@ -6,3 +6,6 @@ The goal is to accurately predict whether or not person is making more or less t
 
 Dataset_columns = ['age','workclass','fnlwgt','education','education-num','marital-status','occupation',
 'relationship','race','sex','capital-gain','capital-loss','hours-per-week','country','salary']
+
+
+Web Interface ![Adult_Income](url)
