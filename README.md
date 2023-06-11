@@ -8,4 +8,4 @@ Dataset_columns = ['age','workclass','fnlwgt','education','education-num','marit
 'relationship','race','sex','capital-gain','capital-loss','hours-per-week','country','salary']
 
 
-Web Interface ![Adult_Income](url)
+Web Interface ![Adult_Income](https://github.com/matindra/Adult-Income-Prediction/blob/main/flask_interface.png)
